@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ralph Kemperdick
-- 👀 I’m interested in Cloud and Data DevOps best practices
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Azure Data Platform topics like Data Mesh and Data Lake architecture
-- 📫 HThe best way to get in contact is via LinkedIn https://www.linkedin.com/in/ralphke  
+- 👋 Hi, I’m Ralph Kemperdick running my own company RaKeTe-Technology, Germany
+- 👀 I’m working as freelancer on Cloud and Data DevOps best practices
+- 🌱 I’m deepening my Python skills.
+- 💞️ I’m looking to collaborate on Azure Data Platform topics like OpenAI, Data Mesh and Data Lake architecture
+- 📫 The best way to get in contact is via LinkedIn https://www.linkedin.com/in/ralphke  
 
 <!---
 ralphke/ralphke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
