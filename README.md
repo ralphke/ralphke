@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ralph Kemperdick running my own company RaKeTe-Technology, Germany
-- 👀 I’m working as freelancer on Cloud and Data DevOps best practices
+- 👀 I’m working as freelancer on Cloud optimization, Data Engineering, Business Intelligence and Data DevOps best practices
 - 🌱 I’m deepening my Python skills.
 - 💞️ I’m looking to collaborate on Azure Data Platform topics like OpenAI, Data Mesh and Data Lake architecture
 - 📫 The best way to get in contact is via LinkedIn https://www.linkedin.com/in/ralphke  
